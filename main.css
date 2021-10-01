@@ -53,7 +53,7 @@ button {
 }
 @keyframes myAnim2 {
   0% {
-    transform: scale(25);
+    transform: scale(30);
   }
 
   100% {
